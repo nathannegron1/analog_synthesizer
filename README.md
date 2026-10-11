@@ -50,7 +50,7 @@ I assembled the circuit on perfboard and verified it in stages using a digital m
 
 The completed synthesizer plays MIDI-controlled notes, responds to pitch changes, and has independently adjustable attack and release knobs.
 
-**Design files:** [Electrical schematic (PDF)](Hardware/synth_schematic.pdf) · [Perfboard layout (PDF)](Hardware/perfboard_sketch.pdf)
+**Design files:** [Electrical schematic (PDF)](Hardware/schematic.pdf) · [Perfboard layout (PDF)](Hardware/perfboard_sketch.pdf)
 **Firmware:** [Teensy MIDI sketch](Firmware/analog_synthesizer.ino)
 
 ## Demo
