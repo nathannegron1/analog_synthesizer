@@ -47,9 +47,6 @@ I assembled the circuit on perfboard and verified it in stages using a digital m
   <img src="Media/board-top.jpg" alt="" width="500">
 </p>
 
-<p align="center">
-  <img src="Media/board-top.jpg" alt="" width="500">
-</p>
 
 The completed synthesizer plays MIDI-controlled notes, responds to pitch changes, and has independently adjustable attack and release knobs.
 
