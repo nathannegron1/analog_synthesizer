@@ -55,8 +55,8 @@ The completed synthesizer plays MIDI-controlled notes, responds to pitch changes
 
 ## Demo
 
-<a href="https://youtu.be/jd_qomO2di8">
+<a href="https://youtu.be/zuDQ4o6_XAY">
   <img src="Media/demo-thumbnail.jpg" alt="Demonstration of the synth" width="500">
 </a>
 
-**[▶ Watch analog synthesizer demo](https://youtu.be/jd_qomO2di8)**
+**[▶ Watch analog synthesizer demo](https://youtu.be/zuDQ4o6_XAY)**
