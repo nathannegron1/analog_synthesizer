@@ -1,7 +1,7 @@
 # Analog MIDI Synthesizer
 
 <p align="center">
-  <img src="Media/board-and-controls.jpg" alt="Completed analog synthesizer on perfboard" width="500">
+  <img src="Media/closeup.jpg" alt="Completed analog synthesizer on perfboard" width="500">
 </p>
 
 ## Overview
@@ -44,12 +44,16 @@ The Teensy is powered by its computer USB connection, while a separate 5 V suppl
 I assembled the circuit on perfboard and verified it in stages using a digital multimeter and powered speakers. Tests included checking the supply rails, DAC voltages, MIDI gate behavior, oscillator pitch changes, and envelope charging/discharging.
 
 <p align="center">
-  <img src="Media/closeup.jpg" alt="Close-up of hand-wired analog circuitry" width="500">
+  <img src="Media/board-top.jpg" alt="" width="500">
+</p>
+
+<p align="center">
+  <img src="Media/board-top.jpg" alt="" width="500">
 </p>
 
 The completed synthesizer plays MIDI-controlled notes, responds to pitch changes, and has independently adjustable attack and release knobs.
 
-**Design files:** [Electrical schematic (PDF)](Hardware/schematic.pdf) · [Perfboard layout (PDF)](Hardware/perfboard_sketch.pdf)
+**Design files:** [Electrical schematic (PDF)](Hardware/synth_schematic.pdf) · [Perfboard layout (PDF)](Hardware/perfboard_sketch.pdf)
 **Firmware:** [Teensy MIDI sketch](Firmware/analog_synthesizer.ino)
 
 ## Demo
